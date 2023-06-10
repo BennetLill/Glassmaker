@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Glassmaker">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="Glassmaker.jar">
+      <element id="module-output" name="Glassmaker" />
+    </root>
+  </artifact>
+</component>
